@@ -1,2 +1,1 @@
-# cebu
-repo for organizing the cebu nodeschools
+# NodeSchool Cebu Chapter
